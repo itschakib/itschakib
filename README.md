@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🌱 I’m currently learning COMPUTER SCIENCE IN GENERAL 
+🔭 I’m currently working 
 <!--
 **itschakib/itschakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
