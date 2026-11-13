@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**itschakib/itschakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Chakib 👋
 
-Here are some ideas to get you started:
+### 💻 Web Development Student | Future Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Based in Málaga, Spain
+
+I'm currently studying Web Application Development (DAW), building my skills in front-end and back-end technologies.
+
+I enjoy solving problems, creating useful applications, and continuously learning new things.
+
+### 🚀 About Me
+
+- 🎓 Studying Web Application Development
+- 🌱 Learning JavaScript, PHP, and databases
+- 💡 Interested in full-stack development
+- 🤝 Open to collaborating on projects
+- 🎯 Goal: Grow as a developer and gain professional experience
+
+### 🛠️ Technologies
+
+HTML · CSS · JavaScript · PHP · SQL · Git · GitHub
+
+### 📂 My Projects
+
+Here I'll share my web development projects, experiments, and learning progress.
+
+### 🌐 Let's Connect
+
+Feel free to explore my projects and connect with me!
