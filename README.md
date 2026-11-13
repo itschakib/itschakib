@@ -86,15 +86,9 @@ I'm building my portfolio as I study. This is where I'll share coursework, exper
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
+## 📊 GitHub Statistics
 
-<div align="center">
-
-<img
-  src="https://github-stats-extended.vercel.app/api?username=itschakib&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="Chakib GitHub Stats"
-  height="170"
-/>
+<div>
 
 <img
   src="https://github-stats-extended.vercel.app/api/top-langs/?username=itschakib&layout=compact&theme=tokyonight&hide_border=true"
