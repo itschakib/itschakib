@@ -119,17 +119,6 @@ I'm building my portfolio as I study. This is where I'll share coursework, exper
 
 ---
 
-## 🌍 Beyond Coding
-
-I believe the best ideas come from being curious about the world, not just technology.
-
-- ✈️ **Travel:** discovering new places and cultures
-- 🤝 **People:** connecting and sharing experiences
-- 🏋️ **Fitness:** building healthy habits and discipline
-- 🍳 **Cooking:** creativity and organization
-- 🌿 **Nature:** finding inspiration away from the screen
-
----
 
 ## 🎯 What's Next?
 
