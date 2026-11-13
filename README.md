@@ -3,7 +3,7 @@
 
 # Hey there, I'm Chakib! 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub!;Web+Developer+in+the+Making;Learning+%7C+Building+%7C+Growing;Turning+Ideas+into+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub!;Web+Developer+in+the+Making;Learning+%7C+Building+%7C+Growing;Turning+Ideas+into+Code" alt="Typing animation" />
 
 ### 💻 DAW Student | Aspiring Full-Stack Developer
 
@@ -11,26 +11,30 @@
 
 *Building my future, one line of code at a time.*
 
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Chakib**, a Web Application Development student in Málaga, Spain.
+Hey! I'm **Chakib**, a Web Application Development student based in Málaga, Spain.
 
-My journey hasn't been just about learning to code. At 18, I moved abroad, adapted to a new environment, learned a new language, and started building an independent life.
+My journey goes beyond coding. At 18, I moved abroad, adapted to a new country, learned a new language, and started building an independent life.
 
-That experience taught me a lot about **adaptability, responsibility, and problem-solving**.
+Those experiences shaped the way I approach challenges: with **adaptability, curiosity, independence, and determination**.
 
-Today, I'm focused on developing my technical skills and turning my passion for technology into a professional career.
+Now I'm working towards becoming a full-stack developer, learning how to turn ideas into useful web applications.
 
 - 🎓 Studying **Desarrollo de Aplicaciones Web (DAW)**
-- 💻 Exploring **front-end and back-end development**
-- 🧠 Interested in logic, structure, and creative solutions
-- 🌱 Always learning and improving
-- 🤝 Enjoy meeting people and exchanging ideas
-- 🎯 Working towards my first opportunity in tech
+- 💻 Learning **front-end and back-end development**
+- 🧠 Passionate about logic, structure, and problem-solving
+- 🌱 Constantly exploring new technologies
+- 🤝 Enjoy collaborating and meeting new people
+- 🎯 Looking to grow professionally in the tech industry
 
 ---
 
@@ -38,64 +42,99 @@ Today, I'm focused on developing my technical skills and turning my passion for 
 
 <div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+### 🎨 Frontend
 
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=php,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend technologies" />
 
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+### ⚙️ Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=php,mysql" alt="Backend technologies" />
+
+### 🔧 Tools & Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools" />
 
 </div>
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 A Little More About Me
 
 ```javascript
 const chakib = {
   location: "Málaga, Spain",
   education: "Web Application Development",
-  currentFocus: [
+
+  currentlyLearning: [
     "JavaScript",
     "PHP",
-    "Web Development"
+    "MySQL",
+    "Full-Stack Development"
   ],
+
   interests: [
     "Technology",
     "Problem Solving",
+    "Travel",
     "Personal Growth",
-    "Travel"
+    "Meeting New People"
   ],
+
+  strengths: [
+    "Adaptability",
+    "Independence",
+    "Creativity",
+    "Logical Thinking"
+  ],
+
   goal: "Become a Full-Stack Developer",
-  mindset: "Keep learning, keep building."
+
+  mindset: "Learn. Build. Improve. Repeat."
 };
 ```
 
 ---
 
-## 📂 Featured Projects
+## 📂 My Projects
 
-I'm currently building my portfolio.
+I'm currently building my portfolio and putting into practice everything I'm learning.
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| 🌐 Personal Portfolio | My personal website and developer identity | HTML, CSS, JS |
-| 🧩 Web Exercises | Practical exercises and learning projects | HTML, CSS, JS |
-| 🐘 PHP Projects | Server-side development practice | PHP, MySQL |
+| 🚀 Project | 📝 Description | 🛠️ Technologies |
+|------------|----------------|-----------------|
+| 🌐 Personal Portfolio | My personal developer website | HTML, CSS, JS |
+| 🧩 Web Development Exercises | Projects and exercises from my studies | HTML, CSS, JS |
+| 🐘 PHP Practice | Practicing server-side development | PHP, MySQL |
 
-*More projects coming soon!*
+*These are planned portfolio sections. Repository links will be added as projects are published.*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
+
+---
+
+## 🐍 My Contribution Journey
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
@@ -103,38 +142,52 @@ I'm currently building my portfolio.
 
 ## 🌍 Beyond Coding
 
-I believe development is more than writing code.
+Technology is a big part of my journey, but there's more to me than a computer screen.
 
-It's about understanding problems, creating solutions, and constantly improving.
+- ✈️ **Travel:** Discovering new places and cultures
+- 🤝 **People:** Connecting, sharing experiences, and learning from others
+- 🏋️ **Fitness:** Working on myself physically and mentally
+- 🍳 **Cooking:** Creativity, organization, and trying new things
+- 🌿 **Nature:** Enjoying the world outside technology
+- 📈 **Growth:** Always finding ways to improve
 
-Outside of technology, I enjoy:
+I believe that the experiences we have outside technology help us become better problem-solvers and developers.
 
-- 🌍 Traveling and discovering new places
-- 🤝 Connecting with people and different cultures
-- 🏋️ Fitness and personal development
-- 🍳 Cooking and organizing things
-- 🌿 Nature and new experiences
+---
+
+## 🎯 My Goals
+
+- 💻 Become confident in full-stack development
+- 🚀 Build real-world applications
+- 📚 Keep learning new technologies
+- 🤝 Collaborate with other developers
+- 💼 Gain professional experience in the tech industry
+- 🌍 Work on projects that make a positive impact
 
 ---
 
 ## 🤝 Let's Connect!
 
-I'm always happy to connect with developers, learn from others, and discover opportunities.
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+I'm always happy to meet other developers, exchange ideas, and explore new opportunities.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+<br>
 
-</div>
+<a href="https://www.linkedin.com/in/chakib-najah">
+  <img src="https://img.shields.io/badge/LinkedIn-Chakib_Najah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
----
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-<div align="center">
+<br><br>
 
 ### ✨ "Every expert was once a beginner."
 
-Thanks for visiting my profile! 🚀
+**Thanks for visiting my GitHub profile! 🚀**
 
 </div>
+
+
